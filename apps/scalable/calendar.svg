@@ -47,20 +47,20 @@
      inkscape:window-maximized="0"
      inkscape:current-layer="svg12" />
   <rect
-     fill="#768D76"
+     fill="#ECE6CB"
      height="42.224369"
      ry="1.71676"
      width="39.485497"
      x="4.242641"
      y="4.563441"
      id="rect2"
-     style="fill:#768276;fill-opacity:1" />
+     style="fill:#ECE6CB;fill-opacity:1" />
   <path
      d="m5.9594007 4.5634412h36.0519793c.951085 0 1.71676.7656749 1.71676 1.7167601v5.9292767h-39.4854991v-5.9292767c0-.9510852.7656749-1.7167601 1.7167598-1.7167601z"
      fill="#863737"
      id="path4" />
   <g
-     fill="#ECE6CB"
+     fill="#768276"
      transform="matrix(.91243509 0 0 .91243509 13.848165 -16.706107)"
      id="g10">
     <path
